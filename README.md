@@ -1,2 +1,2 @@
 # selenium
-Java Selenium
+https://github.com/theworlddecoded/selenium/wiki
